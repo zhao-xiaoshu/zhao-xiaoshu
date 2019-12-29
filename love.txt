@@ -3,3 +3,4 @@ Are you the most handsome in beijing?
 yes!
 See you tonight in my bed!
 不许滚床单
+测试ssh连接方式
